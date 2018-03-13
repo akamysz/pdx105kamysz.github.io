@@ -1,3 +1,2 @@
-Hello!!!!
-Greetings, 
-pick a side:
+Hello!
+Welcome to my page!
