@@ -1,6 +1,4 @@
---
-title: Home
-layout: 
---
 
-hello this is my home page
+title: Hello! Welcome to the Dark Web!
+layout: 
+
